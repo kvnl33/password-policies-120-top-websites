@@ -1,4 +1,4 @@
-This repository contains the dataset from our SOUPS 2022 paper *Password policies of most top websites fail to follow best practices*.
+This repository contains the dataset from our SOUPS 2022 paper *Password policies of most top websites fail to follow best practices*. We visited websites from October 2021 to December 2021.
 
 Our project website can be found [here](https://passwordpolicies.cs.princeton.edu/).
 
